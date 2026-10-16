@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.onnx
+*.onnx.part
+*.pth
+*.tar.gz
+*.mp4
+*.avi
+*.log
+runs/
+.env
